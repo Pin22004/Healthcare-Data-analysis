@@ -7,7 +7,7 @@ The healthcare industry is inundated with vast and complex datasets, presenting 
 
 **Task:**
 As a Healthcare Data Analysis Intern, I spearheaded a project using Power BI to analyze a dataset comprising 15,757 patient records. The goal was to extract actionable insights to inform decision-making and enhance healthcare outcomes.
-                                            ## Dashboard
+  ## Dashboard
 ![Screenshot 2024-04-05 012028](https://github.com/Pin22004/Healthcare-Data-analysis/assets/100960722/29a32939-fde1-4705-b9e6-dff246b44781)
 
 **Action:**
